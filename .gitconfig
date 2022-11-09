@@ -1,0 +1,5 @@
+[user]
+	name = mordgren
+	email = art01918@gmail.com
+[alias]
+	history = log --graph
